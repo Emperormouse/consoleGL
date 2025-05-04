@@ -1,0 +1,1 @@
+/home/malcolm/code/rust/termgl/target/release/termgl: /home/malcolm/code/rust/termgl/src/constants.rs /home/malcolm/code/rust/termgl/src/display.rs /home/malcolm/code/rust/termgl/src/main.rs /home/malcolm/code/rust/termgl/src/point.rs /home/malcolm/code/rust/termgl/src/triangle.rs
