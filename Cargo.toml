@@ -4,4 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+device_query = "3.0.1"
+num-quaternion = "1.0.3"
+rand = "0.9.1"
 termios = "0.3.3"
